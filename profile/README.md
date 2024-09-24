@@ -4,7 +4,7 @@
 
 The no-code platform for software teams.
 
-Stay tuned for udpates! Join our waitlist to learn more!
+Stay tuned for updates! Join our waitlist to learn more!
 https://getflint.dev
 
 <!-- Flint is an extension of tools developers already know and love, providing a no-code experience for building and deploying software while maintaining the flexibility and power of custom code.
